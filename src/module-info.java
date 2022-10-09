@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author forpr
+ *
+ */
+module GraphsProject {
+}
