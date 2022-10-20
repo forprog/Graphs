@@ -1,7 +1,5 @@
 package Matrixes;
 
-import java.util.Iterator;
-
 public class MatrixInt {
 	public int[][] Data;
 	public int RowCount;
